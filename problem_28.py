@@ -4,6 +4,6 @@
 a = 10
 b = 20
 temp = a
-a = b
+a = temp
 b = a
 print(f"a = {a}, b = {b}")
